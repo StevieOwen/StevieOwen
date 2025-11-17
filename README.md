@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevieOwen
 - 👀 I’m interested in web programming, networking, cyber security, Data Engineering, AI
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning javascript,PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
